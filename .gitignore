@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.ipch
+*.pch
+*.vcxproj.user
+
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+out/
+.vs/
